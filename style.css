@@ -2,8 +2,7 @@
         background: #123f56;
       }
       .zoom {
-        background-color: red;
-        transform: scale(3);
+      background-color: red;
       }
 
       .container {
